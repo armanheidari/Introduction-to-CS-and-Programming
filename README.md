@@ -14,6 +14,7 @@ All codes are written in C++.
 - Drawing Shapes
 - Arrays
 - Strings
+- Structures
 - Functional Programming
 - Recursive Functions
 - Basic Algorithms
